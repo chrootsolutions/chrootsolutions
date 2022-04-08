@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chrootsolutions
 - 👀 I’m interested in logic
 - 🌱 I’m currently learning French
-- 💞️ I’m looking to collaborate on brining together all technologies
+- 💞️ I’m looking to collaborate on bringing together all technologies
 - 📫 How to reach me ...try linkedin
 
 <!---
